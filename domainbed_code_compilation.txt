@@ -1,0 +1,91 @@
+DomainBed Code Compilation
+==================================================
+
+
+Core Algorithms
+---------------
+File: algorithms.py
+==================================================
+
+ERROR: File not found: algorithms.py
+
+
+Dataset Implementations
+-----------------------
+File: datasets.py
+==================================================
+
+ERROR: File not found: datasets.py
+
+
+Neural Network Architectures
+----------------------------
+File: networks.py
+==================================================
+
+ERROR: File not found: networks.py
+
+
+Hyperparameter Registry
+-----------------------
+File: hparams_registry.py
+==================================================
+
+ERROR: File not found: hparams_registry.py
+
+
+Model Selection
+---------------
+File: model_selection.py
+==================================================
+
+ERROR: File not found: model_selection.py
+
+
+Training Script
+---------------
+File: scripts/train.py
+==================================================
+
+ERROR: File not found: scripts/train.py
+
+
+Hyperparameter Sweep
+--------------------
+File: scripts/sweep.py
+==================================================
+
+ERROR: File not found: scripts/sweep.py
+
+
+Results Collection
+------------------
+File: scripts/collect_results.py
+==================================================
+
+ERROR: File not found: scripts/collect_results.py
+
+
+Fast Data Loader
+----------------
+File: lib/fast_data_loader.py
+==================================================
+
+ERROR: File not found: lib/fast_data_loader.py
+
+
+Utility Functions
+-----------------
+File: lib/misc.py
+==================================================
+
+ERROR: File not found: lib/misc.py
+
+
+Wide ResNet Implementation
+--------------------------
+File: lib/wide_resnet.py
+==================================================
+
+ERROR: File not found: lib/wide_resnet.py
+
